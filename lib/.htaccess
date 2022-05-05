@@ -1,0 +1,3 @@
+<FilesMatch "^(functions\.php|header\.html|footer\.html)$">
+  Require all denied
+</FilesMatch>

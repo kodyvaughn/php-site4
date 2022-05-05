@@ -1,0 +1,10 @@
+.nav{
+    display: inline;
+    margin: 0 10px;
+}
+.navlinks{
+    text-decoration: none;
+}
+.navlinks:hover{
+    text-decoration: underline;
+}
